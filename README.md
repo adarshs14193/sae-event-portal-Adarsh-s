@@ -4,7 +4,7 @@ A simple and elegant event registration portal built using **React (Vite)** and 
 
 ---
 ## Youtube Link
-[text](https://youtu.be/Pn9vw-C_MHs)
+[Video_link](https://youtu.be/Pn9vw-C_MHs)
 
 ## 🚀 Features
 
